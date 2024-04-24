@@ -7,7 +7,6 @@ This project implements Neural Style Transfer using PyTorch. Neural Style Transf
 ## Results
 
 ![GIF 1](c1%20c2.gif)
-![GIF 2](c1%20c3.gif)
 ![GIF 3](c1%20c4.gif)
 
 ## Project Structure
